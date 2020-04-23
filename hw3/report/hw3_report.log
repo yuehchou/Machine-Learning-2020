@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.8.10)  23 APR 2020 02:52
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.8.10)  23 APR 2020 14:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1206,24 +1206,29 @@ File: ./confusion_matrix.png Graphic file (type QTm)
 <use  "./confusion_matrix.png" >
 File: 0.jpg Graphic file (type QTm)
  <use  "0.jpg" >
+File: 1.jpg Graphic file (type QTm)
+ <use  "1.jpg" >
 File: 2.jpg Graphic file (type QTm)
- <use  "2.jpg" >
-File: 3.jpg Graphic file (type QTm)
 
-<use  "3.jpg" >
+<use  "2.jpg" >
+File: 3.jpg Graphic file (type QTm)
+ <use  "3.jpg" >
 File: 5.jpg Graphic file (type QTm)
- <use  "5.jpg" > [5] (./hw3_report.aux)
+ <use  "5.jpg" >
+File: 10.jpg Graphic file (type QTm)
+ <use  "10.jpg" > [5]
+(./hw3_report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18733 strings out of 493005
- 370829 string characters out of 6134596
- 416102 words of memory out of 5000000
- 22572 multiletter control sequences out of 15000+600000
+ 18737 strings out of 493005
+ 370851 string characters out of 6134596
+ 417102 words of memory out of 5000000
+ 22574 multiletter control sequences out of 15000+600000
  12927 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  46i,9n,62p,10368b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hw3_report.xdv (5 pages, 31548 bytes).
+Output written on hw3_report.xdv (5 pages, 32112 bytes).

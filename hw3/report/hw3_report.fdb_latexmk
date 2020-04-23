@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1587581567 "hw3_report.xdv" "hw3_report.pdf" "hw3_report" 1587581568
-  "hw3_report.xdv" 1587581567 31548 b149e769a0d711040e09d77efe135aa6 "xelatex"
+["xdvipdfmx"] 1587624276 "hw3_report.xdv" "hw3_report.pdf" "hw3_report" 1587624277
+  "hw3_report.xdv" 1587624275 32112 367bc7300204b9e9ac8906f9b49ccab9 "xelatex"
   (generated)
   "hw3_report.pdf"
-["xelatex"] 1587581565 "hw3_report.tex" "hw3_report.xdv" "hw3_report" 1587581568
+["xelatex"] 1587624274 "hw3_report.tex" "hw3_report.xdv" "hw3_report" 1587624277
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -81,17 +81,19 @@
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1502348092 3678524 76c0b6cbc9018fcba22dab6fd77cf316 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "0.jpg" 1587581204 36607 3f5ba99a2b5c7ae63d958deb36ddfa8b ""
+  "1.jpg" 1587624205 35432 798cd66dea66c5747a9a03025a14893e ""
+  "10.jpg" 1587624230 643878 638a3e90963a992cc69951faf5d990c9 ""
   "2.jpg" 1587581207 62892 1e11da734b0ef017f1818f5d80989a46 ""
   "3.jpg" 1587581210 48070 62c334efef0c387baa238b4a1f8e651e ""
   "5.jpg" 1587581213 46686 084bbf67d2048bec8ec4fcc0e5e35451 ""
   "cnn_architecture.png" 1587483198 105317 d3d5e588e7df1c2546d2325695ae5360 ""
-  "confusion_matrix.png" 1587580994 33229 7169d0f323c78a12188e23aedd258591 ""
+  "confusion_matrix.png" 1587624081 56431 82141fcd5d2f4796ada70cc928437b1b ""
   "dnn_architecture.png" 1587536013 116591 0ebe9967bb5a590faf357e13b6ea3126 ""
   "half_cnn_architecture.png" 1587522717 67979 5dbd83c571b684c0249e4ce64af51f61 ""
-  "hw3_report.aux" 1587581567 1240 a13bac78b004f4dbd5ca5b257bc0270e ""
-  "hw3_report.tex" 1587581565 6309 0ba1c805fc36b81f6ce3355f39f94e88 ""
+  "hw3_report.aux" 1587624275 1421 54a8cad2c70f2d54928c6f414f4c709b ""
+  "hw3_report.tex" 1587624271 6504 9648e2df0e9f99b5727ee2e2a82be6c6 ""
   (generated)
-  "hw3_report.log"
-  "hw3_report.xdv"
   "hw3_report.aux"
+  "hw3_report.xdv"
+  "hw3_report.log"
   "hw3_report.pytxcode"

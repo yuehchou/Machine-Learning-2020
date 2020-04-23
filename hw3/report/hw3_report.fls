@@ -146,7 +146,9 @@ INPUT ./half_cnn_architecture.png
 INPUT ./dnn_architecture.png
 INPUT ./confusion_matrix.png
 INPUT 0.jpg
+INPUT 1.jpg
 INPUT 2.jpg
 INPUT 3.jpg
 INPUT 5.jpg
+INPUT 10.jpg
 INPUT hw3_report.aux
