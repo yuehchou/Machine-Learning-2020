@@ -12,7 +12,7 @@
 &nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp; &nbsp; |- \* \_ \* .png<br>
 &nbsp; &nbsp; &nbsp;   |<br>
 &nbsp; &nbsp; &nbsp;   |- validation<br>
-&nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp; &nbsp; |- <em>asterisk</em>-<em>asterisk</em>.png<br>
+&nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp; &nbsp; |- \* \_ \* .png<br>
 &nbsp; &nbsp; &nbsp;   |<br>
 &nbsp; &nbsp; &nbsp;   |- testing<br>
-&nbsp; &nbsp; &nbsp;     &nbsp; &nbsp; &nbsp; |- <em>asterisk</em>-<em>asterisk</em>.png<br>
+&nbsp; &nbsp; &nbsp;     &nbsp; &nbsp; &nbsp; |- \* \_ \* .png<br>
