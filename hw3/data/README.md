@@ -1,16 +1,16 @@
 # Food-11 Dataset
 
 * Data download from:<br>
-        https://drive.google.com/file/d/19CzXudqN58R3D-1G8KeFWk8UDQwlb8is/view <br><br>
+        &nbsp; &nbsp;  https://drive.google.com/file/d/19CzXudqN58R3D-1G8KeFWk8UDQwlb8is/view <br><br>
 
 * Structure:
 
-food-11<br>
-    |- training<br>
-    |   |- *_*.png<br>
-    |<br>
-    |- validation<br>
-    |   |- *_*.png<br>
-    |<br>
-    |- testing<br>
-        |- *_*.png<br>
+&nbsp; &nbsp; food-11<br>
+&nbsp; &nbsp; &nbsp;   |- training<br>
+&nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp; &nbsp; |- *_*.png<br>
+&nbsp; &nbsp; &nbsp;   |<br>
+&nbsp; &nbsp; &nbsp;   |- validation<br>
+&nbsp; &nbsp; &nbsp;   | &nbsp; &nbsp; &nbsp; |- *_*.png<br>
+&nbsp; &nbsp; &nbsp;   |<br>
+&nbsp; &nbsp; &nbsp;   |- testing<br>
+&nbsp; &nbsp; &nbsp;     &nbsp; &nbsp; &nbsp; |- *_*.png<br>
