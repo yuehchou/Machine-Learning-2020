@@ -6,16 +6,16 @@
 
 * Homework (Kaggle public score \ private score)
   
-  1. Hw1: Done (strong base line \ simple base line)
-  
-  2. Hw2: Done (strong base line \ strong base line)
+1. Hw1: Done (strong base line \ simple base line)
 
-  3. Hw3: Done (strong base line \ strong base line)
-  
-  4. Hw4: Done (strong base line \ strong base line)
-  
-  5. Hw5: -- (No Kaggle competition)
-  
-  6. Hw6: Give up (No Kaggle competition)
-  
-  7. Hw7: -- (-- \ --)
+2. Hw2: Done (strong base line \ strong base line)
+
+3. Hw3: Done (strong base line \ strong base line)
+
+4. Hw4: Done (strong base line \ strong base line)
+
+5. Hw5: -- (No Kaggle competition)
+
+6. Hw6: Give up (No Kaggle competition)
+
+7. Hw7: -- (-- \ --)
