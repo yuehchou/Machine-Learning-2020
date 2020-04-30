@@ -14,7 +14,7 @@
 
 4. Hw4: Done (strong base line \ strong base line)
 
-5. Hw5: -- (No Kaggle competition)
+5. Hw5: Done (No Kaggle competition)
 
 6. Hw6: Give up (No Kaggle competition)
 
