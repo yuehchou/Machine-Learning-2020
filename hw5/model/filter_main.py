@@ -1,3 +1,4 @@
+import torch, os, sys
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
 import numpy as np
@@ -7,10 +8,10 @@ from data_preprocessing import *
 from filter_explain import *
 from model import *
 
-workspace_dir = './../data'
-save_filter_fpath = './../fig/filter_layer_15.png'
-save_fpath = './../fig/filter_layer_15_explaination_results.png'
-load_checkpoint = './../../hw3/model/best_checkpoint_norm_cnn.pt'
+workspace_dir = os.path.join(sys.argv[1])
+save_filter_fpath = os.path.join(sys.argv[2], 'filter_layer_15.png')
+save_fpath = os.path.join(sys.argv[2], 'filter_layer_15_explaination_results.png')
+load_checkpoint = './best_checkpoint_norm_cnn.pt'
 
 batch_size = 256
 

@@ -1,3 +1,4 @@
+import os, sys, torch
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
 import numpy as np
@@ -7,9 +8,9 @@ from data_preprocessing import *
 from saliency import *
 from model import *
 
-workspace_dir = './../data'
-save_fpath = './../fig/saliency_results.png'
-load_checkpoint = './../../hw3/model/best_checkpoint_norm_cnn.pt'
+workspace_dir = os.path.join(sys.argv[1])
+save_fpath = os.path.join(sys.argv[2], 'saliency_results.png')
+load_checkpoint = './best_checkpoint_norm_cnn.pt'
 
 batch_size = 256
 

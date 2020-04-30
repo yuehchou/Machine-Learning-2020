@@ -1,3 +1,4 @@
+import os, sys
 import torch
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
@@ -26,9 +27,9 @@ def segmentation(input):
     return slic(input, n_segments=100, compactness=1, sigma=1)
 
 
-workspace_dir = './../data'
-save_fpath = './../fig/lime.png'
-load_checkpoint = './../../hw3/model/best_checkpoint_norm_cnn.pt'
+workspace_dir = os.path.join(sys.argv[1])
+save_fpath = os.path.join(sys.argv[2], 'lime.png')
+load_checkpoint = './best_checkpoint_norm_cnn.pt'
 
 batch_size = 256
 
@@ -43,7 +44,6 @@ train_transform = transforms.Compose([
     transforms.Resize(150),
     transforms.RandomResizedCrop(128),
     transforms.ToTensor(),
-    # normalize,
 ])
 
 invTrans = transforms.Compose([
