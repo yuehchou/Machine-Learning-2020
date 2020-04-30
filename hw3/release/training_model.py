@@ -260,28 +260,14 @@ def predict(model, batch_size, test_x, results_fpath):
 
     test_transform = transforms.Compose([
         transforms.ToPILImage(),
+        transforms.Resize(150),
+        transforms.CenterCrop(128),
         transforms.ToTensor(),
-        transforms.Normalize(mean=[0.32883957, 0.4496993 , 0.5656985], std=[0.27113146, 0.26589793, 0.26220062]),
+        transforms.Normalize(mean=[0.485, 0.456 , 0.406], std=[0.229, 0.224, 0.225]),
     ])
 
     test_set = ImgDataset(test_x, transform=test_transform)
     test_loader = DataLoader(test_set, batch_size=batch_size, shuffle=False)
-
-    model.eval()
-    prediction = []
-    with torch.no_grad():
-        for i, data in enumerate(test_loader):
-            test_pred = model(data.cuda())
-            test_label = np.argmax(test_pred.cpu().data.numpy(), axis=1)
-            for y in test_label:
-                prediction.append(y)
-
-    with open(results_fpath, 'w') as f:
-        f.write('Id,Category\n')
-        for i, y in  enumerate(prediction):
-            f.write('{},{}\n'.format(i, y))
-
-def norm_predict(model, batch_size, test_loader, results_fpath):
 
     model.eval()
     prediction = []
