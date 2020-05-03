@@ -134,5 +134,11 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT ./saliency_results.png
 OUTPUT hw5_report.xdv
+INPUT ./filter_layer_10.png
+INPUT ./filter_layer_15.png
+INPUT ./filter_layer_15_explaination_results.png
+INPUT ./lime.png
+INPUT ./shap_results.png
 INPUT hw5_report.aux

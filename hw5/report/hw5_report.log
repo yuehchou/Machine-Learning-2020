@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.8.10)  29 APR 2020 17:07
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.8.10)  4 MAY 2020 01:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1162,20 +1162,78 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Warning: Font shape `TU/標楷體(0)/bx/it' undefined
 (Font)              using `TU/標楷體(0)/m/n' instead on input line 38.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+File: ./saliency_results.png Graphic file (type QTm)
+<use  "./saliency_results.png" >
+
+LaTeX Warning: Float too large for page by 0.40099pt on input line 47.
+
 [1
 
-] (./hw5_report.aux)
+] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+File: ./filter_layer_10.png Graphic file (type QTm)
+<use  "./filter_layer_10.png" >
+File: ./filter_layer_15.png Graphic file (type QTm)
+ <use  "./filter_layer_15.png" >
+File: ./filter_layer_15_explaination_results.png Graphic file (type QTm)
+
+<use  "./filter_layer_15_explaination_results.png" > [3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+File: ./lime.png Graphic file (type QTm)
+<use  "./lime.png" >
+Overfull \hbox (36.6522pt too wide) in paragraph at lines 85--86
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+File: ./shap_results.png Graphic file (type QTm)
+<use  "./shap_results.png" > [6] (./hw5_report.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18683 strings out of 493005
- 369155 string characters out of 6134596
- 415098 words of memory out of 5000000
- 22535 multiletter control sequences out of 15000+600000
+ 18698 strings out of 493005
+ 369424 string characters out of 6134596
+ 414098 words of memory out of 5000000
+ 22542 multiletter control sequences out of 15000+600000
  11371 words of font info for 45 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 46i,6n,62p,10368b,255s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,7n,62p,10368b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hw5_report.xdv (1 page, 7108 bytes).
+Output written on hw5_report.xdv (6 pages, 12084 bytes).
