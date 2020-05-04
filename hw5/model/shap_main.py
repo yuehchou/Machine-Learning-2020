@@ -9,12 +9,12 @@ from model import *
 
 workspace_dir = os.path.join(sys.argv[1])
 save_fpath = os.path.join(sys.argv[2], 'shap_results.png')
-load_checkpoint = './best_checkpoint_norm_cnn.pt'
+load_checkpoint = None
 
 batch_size = 256
 
 print("Reading data")
-train_x, train_y = readfile(os.path.join(workspace_dir, "training"), True)
+train_x, train_y = readfile(workspace_dir, True)
 print("Size of training data = {}".format(len(train_x)))
 
 normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
