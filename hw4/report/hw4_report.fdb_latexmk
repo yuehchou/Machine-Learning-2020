@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1588147448 "hw4_report.xdv" "hw4_report.pdf" "hw4_report" 1588147449
-  "hw4_report.xdv" 1588147448 35672 d78f0cfcdf5c1f1f39c82f38ed9d5855 "xelatex"
+["xdvipdfmx"] 1588574129 "hw4_report.xdv" "hw4_report.pdf" "hw4_report" 1588574130
+  "hw4_report.xdv" 1588574129 35716 b6202ab837d156c6b241545c10e960d6 "xelatex"
   (generated)
   "hw4_report.pdf"
-["xelatex"] 1588147446 "hw4_report.tex" "hw4_report.xdv" "hw4_report" 1588147449
+["xelatex"] 1588574128 "hw4_report.tex" "hw4_report.xdv" "hw4_report" 1588574130
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -81,9 +81,9 @@
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1502348092 3678524 76c0b6cbc9018fcba22dab6fd77cf316 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "LSTM_acc.png" 1588096558 27198 435e00b2309de8362f95457297f0279f ""
-  "hw4_report.aux" 1588147448 366 68e4756d3d55f61a3fbb18d8c7df9db9 ""
-  "hw4_report.tex" 1588147445 5820 c926d54087a6434e68dd510bb01688ef ""
+  "hw4_report.aux" 1588574129 366 68e4756d3d55f61a3fbb18d8c7df9db9 ""
+  "hw4_report.tex" 1588574127 5850 7373d97937bc6a2920640a61bc49bb42 ""
   (generated)
-  "hw4_report.log"
   "hw4_report.xdv"
+  "hw4_report.log"
   "hw4_report.aux"
