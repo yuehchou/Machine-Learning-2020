@@ -19,3 +19,7 @@
 6. Hw6: Give up (No Kaggle competition)
 
 7. Hw7: -- (-- \ --)
+
+8. Hw8: -- (No Kaggle competition)
+
+9. Hw9: -- (-- \ --)
