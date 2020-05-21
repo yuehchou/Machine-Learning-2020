@@ -22,4 +22,4 @@
 
 8. Hw8: Give up (No Kaggle competition)
 
-9. Hw9: -- (-- \ --)
+9. Hw9: Done (strong base line \ --)
