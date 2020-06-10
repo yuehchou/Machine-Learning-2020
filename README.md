@@ -24,8 +24,8 @@
 
 9. Hw9: Done (strong base line \ strong base line)
 
-10. Hw10: Done (strong base line \ strong base line)
+10. Hw10: Done (strong base line \ --)
 
-11. Hw11: -- (-- \ --)
+11. Hw11: -- (No Kaggle competition)
 
-12. Hw12: -- (-- \ --)
+12. Hw12: Done (strong base line \ --)
