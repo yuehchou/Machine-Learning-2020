@@ -12,8 +12,8 @@ from model import fcn_autoencoder, conv_autoencoder, VAE
 
 # ==========
 # Setting
-num_epochs = 1
-# num_epochs = 1000
+# num_epochs = 1
+num_epochs = 1000
 batch_size = 128
 learning_rate = 1e-3
 # {'fcn', 'cnn', 'vae'} 
